@@ -40,7 +40,7 @@
 
 ##### 具体实现
 
-![二次写原理图](/img/mysql-double-write.jpg)
+![二次写原理图](/img/database/mysql/mysql-double-write.jpg)
 
 需要额外添加两个部分：
 
@@ -55,7 +55,7 @@
 
 #### 自适应哈希
 
-![自适应哈希索原理](/img/hash-index.png)
+![自适应哈希索原理](/img/database/mysql/hash-index.png)
 
 Innodb 存储引擎会监控对表上二级索引的查找，如果发现某二级索引被频繁访问，二级索引成为热数据，建立哈希索引可以带来速度的提升。
 

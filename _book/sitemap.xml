@@ -11,4 +11,10 @@
 <url> <loc>http://jalan.space/leetcode-notebook/database/mysql/engine/innodb.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/database/mysql/engine/myisam.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/database/mysql/data-type.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/leetcode-notebook/network/http.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/leetcode-notebook/network/http/method.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/leetcode-notebook/network/http/code.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/leetcode-notebook/network/http/http-2.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/leetcode-notebook/network/http/https.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/leetcode-notebook/network/security.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>

@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7af2e453-2cc0-47ce-a77b-11a35b9b4f0a" name="Default Changelist" comment="" />
+    <list default="true" id="7af2e453-2cc0-47ce-a77b-11a35b9b4f0a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_book/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_book/img/database/mysql/innodb-primary-key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_book/img/database/mysql/innodb-secondary-key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_book/img/database/mysql/myisam-primary-key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/database/mysql/innodb-primary-key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/database/mysql/innodb-secondary-key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/database/mysql/myisam-primary-key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/http.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/http/code.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/http/http-2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/http/https.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/http/method.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/security.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/algorithm/leetcode.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/algorithm/leetcode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/algorithm/offer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/algorithm/offer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/database/mysql.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/database/mysql/data-type.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/data-type.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/database/mysql/engine.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/engine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/database/mysql/engine/innodb.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/engine/innodb.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/database/mysql/engine/myisam.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/engine/myisam.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/database/mysql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/database/mysql/index/b-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/index/b-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/database/mysql/transaction.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/transaction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/img/hash-index.png" beforeDir="false" afterPath="$PROJECT_DIR$/_book/img/database/mysql/hash-index.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/img/mysql-double-write.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_book/img/database/mysql/mysql-double-write.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_book/search_index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_book/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/mysql.md" beforeDir="false" afterPath="$PROJECT_DIR$/database/mysql.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/mysql/engine.md" beforeDir="false" afterPath="$PROJECT_DIR$/database/mysql/engine.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/mysql/engine/innodb.md" beforeDir="false" afterPath="$PROJECT_DIR$/database/mysql/engine/innodb.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/mysql/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/database/mysql/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/mysql/index/b-tree.md" beforeDir="false" afterPath="$PROJECT_DIR$/database/mysql/index/b-tree.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hash-index.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/database/mysql/hash-index.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mysql-double-write.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/database/mysql/mysql-double-write.jpg" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,20 +49,35 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1399">
-              <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
+        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="385">
+                <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+        <entry file="file://$PROJECT_DIR$/network/http.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="108">
-                <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+              <first_editor relative-caret-position="547">
+                <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/network/http/https.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="378">
+                <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -32,11 +85,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithm/offer.md">
+        <entry file="file://$PROJECT_DIR$/network/http/http-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="54">
-                <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
+              <first_editor relative-caret-position="513">
+                <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
               </first_editor>
               <second_editor />
             </state>
@@ -44,11 +97,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/mysql/index/b-tree.md">
+        <entry file="file://$PROJECT_DIR$/network/http/method.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="702">
-                <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+              <first_editor relative-caret-position="486">
+                <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
               </first_editor>
               <second_editor />
             </state>
@@ -56,7 +109,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/mysql/engine/myisam.md">
+        <entry file="file://$PROJECT_DIR$/network/http/code.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="324">
+                <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/network/security.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
@@ -68,64 +133,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/mysql/engine.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="351">
-                <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/mysql/engine/innodb.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2106">
-                <caret line="78" column="62" selection-start-line="78" selection-start-column="62" selection-end-line="78" selection-end-column="62" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/mysql/data-type.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="351">
-                <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/leetcode.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="54">
-                <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/database/mysql/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="-32">
+                <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/mysql.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="54">
+                <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/mysql/index/b-tree.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="270">
+                <caret line="10" selection-start-line="10" selection-end-line="10" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -135,20 +181,30 @@
         <option value="$PROJECT_DIR$/database/mysql/transaction.md" />
         <option value="$PROJECT_DIR$/database/mysql/engine/myisam.md" />
         <option value="$PROJECT_DIR$/book.json" />
-        <option value="$PROJECT_DIR$/database/mysql/engine.md" />
         <option value="$PROJECT_DIR$/database/mysql/data_type.md" />
-        <option value="$PROJECT_DIR$/database/mysql/index/b-tree.md" />
         <option value="$PROJECT_DIR$/database/mysql/engine/innodb.md" />
-        <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/algorithm/offer.md" />
+        <option value="$PROJECT_DIR$/database/mysql/engine.md" />
+        <option value="$PROJECT_DIR$/database/mysql/index/b-tree.md" />
+        <option value="$PROJECT_DIR$/database/mysql/index.md" />
+        <option value="$PROJECT_DIR$/database/mysql.md" />
+        <option value="$PROJECT_DIR$/network/security.md" />
+        <option value="$PROJECT_DIR$/network/http/method.md" />
+        <option value="$PROJECT_DIR$/network/http/code.md" />
+        <option value="$PROJECT_DIR$/network/http/https.md" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/network/http.md" />
+        <option value="$PROJECT_DIR$/network/http/http-2.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1920" />
     <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="963" />
+    <option name="width" value="1920" />
+    <option name="height" value="988" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -167,6 +223,22 @@
               <item name="interview" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -178,6 +250,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/database/mysql" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -201,19 +278,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552117980573</updated>
-      <workItem from="1552117982050" duration="8058000" />
+      <workItem from="1552117982050" duration="20637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8058000" />
+    <option name="totallyTimeSpent" value="20637000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="-1920" y="23" width="1920" height="988" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21778488" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -237,38 +314,12 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/database/mysql.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/mysql/transaction.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1169">
             <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
           </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="54">
-            <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/mysql/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -283,31 +334,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/mysql/engine.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="351">
-            <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/mysql/data-type.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="351">
             <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/mysql/index/b-tree.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="702">
-            <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
           </first_editor>
           <second_editor />
         </state>
@@ -330,16 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/leetcode.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -354,7 +375,127 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="54">
-            <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
+            <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/mysql/engine.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="377">
+            <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/mysql/index/b-tree.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/mysql/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-32">
+            <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/mysql.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/security.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="9" selection-start-column="9" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/http/method.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="486">
+            <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/http/code.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="385">
+            <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/http.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="547">
+            <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/http/https.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="378">
+            <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network/http/http-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="513">
+            <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
           </first_editor>
           <second_editor />
         </state>
