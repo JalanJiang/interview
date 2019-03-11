@@ -4,6 +4,10 @@
 * 算法与数据结构
     * [剑指 Offer 题解](/algorithm/offer.md)
     * [LeetCode 题解](/algorithm/leetcode.md)
+    * 基础算法
+        * 排序
+        * 查找
+            * [二分查找](/algorithm/base/binary-search.md)
 * 数据库
     * [MySQL](/database/mysql.md)
         * [索引](/database/mysql/index.md)
@@ -16,13 +20,14 @@
     * Redis
     * MongoDB
 * 网络
-    * 计算机网络
+    * [计算机网络](/network/network.md)
     * [HTTP 协议](/network/http.md)
         * [HTTP 方法](/network/http/method.md)
         * [HTTP 状态码](/network/http/code.md)
         * [HTTP/2.0](/network/http/http-2.md)
         * [HTTPS](/network/http/https.md)
     * [Web 安全](/network/security.md) 
+* Linux
 * 容器化
     * Docker
     * Kubernetes
