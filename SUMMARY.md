@@ -35,7 +35,9 @@
         * [XSS 攻击](/network/security/xss.md)
         * [CSRF 攻击](/network/security/csrf.md)
         * [SQL 注入](/network/security/sql.md)
-* Linux
+* 操作系统
+    * 计算机操作系统
+    * Linux
 * 容器化
     * Docker
     * Kubernetes
@@ -43,6 +45,12 @@
     * PHP
         * 设计模式
         * 安全
+        * 流行框架
+            * Laravel
+            * ThinkPHP
+            * Yii
     * Python
     * Go
     * NodeJS
+* 面试准备
+    * 常见问题与技巧
