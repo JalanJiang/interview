@@ -3,7 +3,10 @@
 <url> <loc>http://jalan.space/leetcode-notebook/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/algorithm/offer.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/algorithm/leetcode.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://jalan.space/leetcode-notebook/algorithm/base/binary-search.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/leetcode-notebook/algorithm/base/sort.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/leetcode-notebook/algorithm/base/sort/quick-sort.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/leetcode-notebook/algorithm/base/sort/bubble-sort.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/leetcode-notebook/algorithm/base/search/binary-search.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/database/mysql.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/database/mysql/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/database/mysql/index/b-tree.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -19,4 +22,7 @@
 <url> <loc>http://jalan.space/leetcode-notebook/network/http/http-2.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/network/http/https.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/network/security.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/leetcode-notebook/network/security/xss.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/leetcode-notebook/network/security/csrf.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/leetcode-notebook/network/security/sql.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>
