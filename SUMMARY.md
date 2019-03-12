@@ -22,7 +22,9 @@
             * [InnoDB](/database/mysql/engine/innodb.md)
             * [MyISAM](/database/mysql/engine/myisam.md)
         * [数据类型](/database/mysql/data-type.md)
-    * Redis
+    * [Redis](/database/redis.md)
+        * [数据类型](/database/redis/data-type.md)
+        * [持久化](/database/redis/persistence.md)
     * MongoDB
 * 网络
     * [计算机网络](/network/network.md)
