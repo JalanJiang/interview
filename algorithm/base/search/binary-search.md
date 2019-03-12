@@ -33,6 +33,31 @@ class Solution(object):
         return -1
 ```
 
+递归法：
+
+```python
+class Solution(object):
+    def search(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
+        return self.binarySearch(0, len(nums) - 1, nums, target)
+     
+    def binarySearch(self, i, j, nums, target):
+        if i <= j:
+            mid = (i + j) // 2
+            if nums[mid] == target:
+                return mid
+            elif nums[mid] > target:
+                return self.binarySearch(i, mid-1, nums, target)
+            else:
+                return self.binarySearch(mid+1, j, nums, target)
+        else:
+            return -1
+```
+
 ### 时间复杂度分析
 
 因为二分查找每次排除掉一半的不适合值，所以对于 n 个元素的情况：
