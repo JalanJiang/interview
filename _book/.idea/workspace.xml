@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7af2e453-2cc0-47ce-a77b-11a35b9b4f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/base/binary-search.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network/network.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/algorithm/leetcode.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/algorithm/leetcode.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/algorithm/offer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/algorithm/offer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql/data-type.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/data-type.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql/engine.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/engine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql/engine/innodb.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/engine/innodb.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql/engine/myisam.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/engine/myisam.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql/index/b-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/index/b-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql/transaction.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/transaction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/http.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/http.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/http/code.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/http/code.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/http/http-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/http/http-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/http/https.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/http/https.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/http/method.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/http/method.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/security.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/security.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_book/search_index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_book/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/base/binary-search.md" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/base/binary-search.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,24 +12,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="237">
-                <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+              <first_editor relative-caret-position="324">
+                <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/algorithm/base/binary-search.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="108">
-                <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              <first_editor relative-caret-position="184">
+                <caret line="44" column="71" selection-start-line="44" selection-start-column="71" selection-end-line="44" selection-end-column="71" />
               </first_editor>
               <second_editor />
             </state>
@@ -182,8 +160,8 @@
         <option value="$PROJECT_DIR$/network/http/http-2.md" />
         <option value="$PROJECT_DIR$/network.md" />
         <option value="$PROJECT_DIR$/network/network.md" />
-        <option value="$PROJECT_DIR$/algorithm/base/binary-search.md" />
         <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/algorithm/base/binary-search.md" />
       </list>
     </option>
   </component>
@@ -210,11 +188,6 @@
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
               <item name="network" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -230,6 +203,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithm/base" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img/database/mysql" />
     </key>
@@ -256,19 +232,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552117980573</updated>
-      <workItem from="1552117982050" duration="24198000" />
+      <workItem from="1552117982050" duration="25382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24198000" />
+    <option name="totallyTimeSpent" value="25382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21778488" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15228967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -487,21 +463,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/base/binary-search.md">
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <first_editor relative-caret-position="324">
+            <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+    <entry file="file://$PROJECT_DIR$/algorithm/base/binary-search.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="237">
-            <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+          <first_editor relative-caret-position="184">
+            <caret line="44" column="71" selection-start-line="44" selection-start-column="71" selection-end-line="44" selection-end-column="71" />
           </first_editor>
           <second_editor />
         </state>

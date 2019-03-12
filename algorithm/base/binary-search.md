@@ -1,6 +1,7 @@
 ## 二分查找
 
-LeetCode 练习题：[704. 二分查找](https://leetcode-cn.com/problems/binary-search/)
+- LeetCode 练习题：[704. 二分查找](https://leetcode-cn.com/problems/binary-search/)
+- 时间复杂度：`O(log2n)`
 
 ### 思想
 
@@ -31,6 +32,17 @@ class Solution(object):
                     i = mid + 1
         return -1
 ```
+
+### 时间复杂度分析
+
+因为二分查找每次排除掉一半的不适合值，所以对于 n 个元素的情况：
+
+- 一次二分剩下：n/2
+- 两次二分剩下：n/2/2 = n/4
+- 
+- m次二分剩下：n/(2^m)
+
+在最坏情况下是在排除到只剩下最后一个值之后得到结果，所以为 `n/(2^m) = 1`，`2^m=n`，所以时间复杂度为 `log2(n)`。
 
 ### 变种
 
