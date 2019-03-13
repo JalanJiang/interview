@@ -45,11 +45,11 @@
     * Docker
     * Kubernetes
 * 编程语言
-    * PHP
+    * [PHP](/language/php.md)
         * 设计模式
         * 安全
         * 流行框架
-            * Laravel
+            * [Laravel](/language/php/framework/laravel.md)
             * ThinkPHP
             * Yii
     * Python
