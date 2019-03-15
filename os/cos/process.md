@@ -38,8 +38,6 @@
 
 ![并行与并发](/img/os/concurrent-parallel.jpg)
 
-
-
 ## 参考资料
 
 - [高并发和高性能系统中进程、线程、协程、队列的详解，以及各运行模式的对比](https://www.imooc.com/article/31751)

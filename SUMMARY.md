@@ -43,7 +43,7 @@
 * 操作系统
     * 计算机操作系统
         * [进程](/os/cos/process.md)
-    * Linux
+    * [Linux](/os/linux.md)
 * 容器化
     * Docker
     * Kubernetes
