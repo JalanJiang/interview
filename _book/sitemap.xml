@@ -29,6 +29,7 @@
 <url> <loc>http://jalan.space/leetcode-notebook/network/security/xss.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/network/security/csrf.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/network/security/sql.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/leetcode-notebook/os/cos/process.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/language/php.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/language/php/framework/laravel.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>
