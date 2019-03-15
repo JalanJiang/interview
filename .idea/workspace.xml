@@ -2,45 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7af2e453-2cc0-47ce-a77b-11a35b9b4f0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/network/http/cookie.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network/http/session.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/os/cos/process.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/algorithm/base/search/binary-search.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/algorithm/base/search/binary-search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/algorithm/base/sort.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/algorithm/base/sort.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/algorithm/base/sort/bubble-sort.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/algorithm/base/sort/bubble-sort.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/algorithm/base/sort/quick-sort.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/algorithm/base/sort/quick-sort.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/algorithm/leetcode.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/algorithm/leetcode.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/algorithm/offer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/algorithm/offer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql/data-type.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/data-type.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql/engine.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/engine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql/engine/innodb.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/engine/innodb.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql/engine/myisam.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/engine/myisam.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql/index/b-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/index/b-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/mysql/transaction.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/mysql/transaction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/redis.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/redis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/redis/data-type.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/redis/data-type.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/database/redis/persistence.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/database/redis/persistence.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/language/php.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/language/php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/language/php/framework/laravel.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/language/php/framework/laravel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/http.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/http.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/http/code.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/http/code.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/http/http-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/http/http-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/http/https.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/http/https.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/http/method.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/http/method.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/network.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/network.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/network/transport-layer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/network/transport-layer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/security.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/security.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/security/csrf.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/security/csrf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/security/sql.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/security/sql.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/network/security/xss.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/network/security/xss.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_book/search_index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_book/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/language/php/framework/laravel.md" beforeDir="false" afterPath="$PROJECT_DIR$/language/php/framework/laravel.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,42 +14,6 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="324">
-                <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/network/http/cookie.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="459">
-                <caret line="17" selection-start-line="17" selection-end-line="17" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/network/http/session.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="243">
-                <caret line="9" selection-start-line="9" selection-end-line="9" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/book.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1139">
@@ -96,11 +23,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/language/php/framework/laravel.md">
+        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="162">
-                <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="495">
+                <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
               </first_editor>
               <second_editor />
             </state>
@@ -108,59 +35,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/os/cos/process.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="81">
-                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/network/network/transport-layer.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1323">
-                <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/network/network.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="459">
-                <caret line="17" selection-start-line="17" selection-end-line="17" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithm/base/search/binary-search.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-5">
-                <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/language/php.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="303">
-                <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="733">
+                <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -208,17 +87,19 @@
         <option value="$PROJECT_DIR$/network/network/transport-layer.md" />
         <option value="$PROJECT_DIR$/algorithm/base/search/binary-search.md" />
         <option value="$PROJECT_DIR$/language/php.md" />
-        <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/network/http/session.md" />
         <option value="$PROJECT_DIR$/network/http/cookie.md" />
         <option value="$PROJECT_DIR$/language/php/framework/laravel.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/os/cos/process.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-950" />
+    <option name="width" value="950" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -233,6 +114,11 @@
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -278,19 +164,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552117980573</updated>
-      <workItem from="1552117982050" duration="50017000" />
+      <workItem from="1552117982050" duration="53635000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50017000" />
+    <option name="totallyTimeSpent" value="53635000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="972" extended-state="6" />
+    <frame x="-950" y="0" width="950" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12026862" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21696036" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -625,18 +511,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/book.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+    <entry file="file://$PROJECT_DIR$/network/http/cookie.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="324">
-            <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="459">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor />
         </state>
@@ -647,16 +526,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="243">
             <caret line="9" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network/http/cookie.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="459">
-            <caret line="17" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor />
         </state>
@@ -677,6 +546,33 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="81">
             <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="495">
+            <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/os/cos/process.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="733">
+            <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>
