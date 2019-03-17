@@ -47,6 +47,11 @@
         * [内存管理](/os/cos/memory.md)
         * 设备管理
     * [Linux](/os/linux.md)
+        * [操作](/os/linux/operation.md)
+        * [系统](/os/linux/system.md)
+        * 安全
+        * 网络
+        * Shell 编程
 * 容器化
     * Docker
     * Kubernetes
