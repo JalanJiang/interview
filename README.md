@@ -31,6 +31,7 @@
 - [美图](https://corp.meitu.com/)
 - [阿里巴巴](https://www.alibabagroup.com/cn/global/home)
 - [腾讯](https://www.qq.com/)
+- [字节跳动](https://bytedance.com/)
 - [探探](http://tantanapp.com/)
 - [米哈游](http://www.mihayo.com/)
 - [UCLOUD](https://www.ucloud.cn/)
