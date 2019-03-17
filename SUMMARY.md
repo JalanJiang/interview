@@ -43,6 +43,9 @@
 * 操作系统
     * 计算机操作系统
         * [进程](/os/cos/process.md)
+        * [死锁](/os/cos/lock.md)
+        * [内存管理](/os/cos/memory.md)
+        * 设备管理
     * [Linux](/os/linux.md)
 * 容器化
     * Docker
