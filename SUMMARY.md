@@ -51,7 +51,7 @@
         * [系统](/os/linux/system.md)
         * 安全
         * 网络
-        * Shell 编程
+        * [Shell 编程](/os/linux/shell.md)
 * 容器化
     * Docker
     * Kubernetes
