@@ -10,7 +10,8 @@
             * 选择排序
             * [冒泡排序](/algorithm/base/sort/bubble-sort.md)
             * 插入排序
-            * 堆排序
+            * [堆排序](/algorithm/base/sort/heap-sort.md)
+            * [归并排序](/algorithm/base/sort/merge-sort.md)
         * 查找
             * [二分查找](/algorithm/base/search/binary-search.md)
 * 数据库

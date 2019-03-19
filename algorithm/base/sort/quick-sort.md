@@ -8,7 +8,7 @@
 
 ### 原理
 
-![](/img/algorithm/sort/quick-sort.gif)
+![快速排序](/img/algorithm/sort/quick-sort.gif)
 
 ### 实现
 
