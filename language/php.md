@@ -16,6 +16,11 @@
 
 ### CGI
 
+### php-fpm
+
+### 魔术方法
+
 ## 参考资料
 
 - [PHP 笔试面试题精选（一）](https://learnku.com/articles/5250/php-written-examination-questions-selected-1)
+- [PHP7 性能为何提高](http://www.cleey.com/blog/single/id/888.html)
