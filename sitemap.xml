@@ -39,6 +39,7 @@
 <url> <loc>http://jalan.space/leetcode-notebook/os/linux/operation.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/os/linux/system.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/os/linux/shell.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://jalan.space/leetcode-notebook/system/api.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/language/php.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/language/php/grammar.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://jalan.space/leetcode-notebook/language/php/framework/laravel.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
