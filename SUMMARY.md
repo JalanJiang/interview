@@ -14,7 +14,7 @@
             * [归并排序](/algorithm/base/sort/merge-sort.md)
         * 查找
             * [二分查找](/algorithm/base/search/binary-search.md)
-* 数据库
+* [数据库](/database/db.md)
     * [MySQL](/database/mysql.md)
         * [索引](/database/mysql/index.md)
             * [B+ Tree 索引](/database/mysql/index/b-tree.md)
